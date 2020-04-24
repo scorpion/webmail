@@ -19,6 +19,6 @@ For more information about the product, check [scorpion.io](http://www.scorpion.
 
 ## License
 
-**RainLoop Webmail (Community edition)** is released under
+**Scorpion Webmail** is released under
 **GNU AFFERO GENERAL PUBLIC LICENSE Version 3 (AGPL)**.
 http://www.gnu.org/licenses/agpl-3.0.html
